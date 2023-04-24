@@ -1,0 +1,9 @@
+.Setup {
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.split {
+    display: flex;
+    flex-direction: row;
+}
