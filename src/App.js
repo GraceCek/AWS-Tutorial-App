@@ -21,11 +21,12 @@ import {
     Card,
 } from "@aws-amplify/ui-react";
 
-function App() {
+function App({ signOut }) {
     return (
         <Router>
         <View className="App">
             <Card>
+                <Button onClick={signOut}>Sign Out</Button>
                 <Navbar />
                 <Sidebar />
                 

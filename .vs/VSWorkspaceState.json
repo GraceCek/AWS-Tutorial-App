@@ -2,11 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\src",
-    "\\src\\components",
-    "\\src\\components\\Sidebar",
+    "\\src\\images",
     "\\src\\pages",
-    "\\src\\pages\\Overview"
+    "\\src\\pages\\Home",
+    "\\src\\pages\\S3"
   ],
-  "SelectedNode": "\\src\\components\\Sidebar\\SidebarData.js",
+  "SelectedNode": "\\src\\images\\Home_page_img_2.png",
   "PreviewInSolutionExplorer": false
 }
